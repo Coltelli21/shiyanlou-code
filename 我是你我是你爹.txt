@@ -1,0 +1,7 @@
+<p>我是你我是你爹</p>
+
+for shuzi in range(1,101):
+    if shuzi%7 == 0 or shuzi%10 == 7 or a // 10 == 7:
+        continue
+    else:
+        print(shuzi)
